@@ -1,0 +1,6 @@
+{
+  "name": "BookVibe",
+  "description": "Интерактивное веб-приложение для чтения книг с динамическим ИИ-аудиосопровождением в стиле Яндекс Книг.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
